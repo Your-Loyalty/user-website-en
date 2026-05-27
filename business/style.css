@@ -939,6 +939,10 @@ mark {
     width: 96px;
 }
 
+.partner-tile:hover {
+    text-decoration: none;
+}
+
 .partner-tile:hover .partner-logo {
     border-color: var(--border-accent);
     box-shadow: var(--shadow-accent);
