@@ -705,6 +705,7 @@ figcaption {
     /* ✅ the page scrolls */
     overscroll-behavior: contain;
     scroll-snap-align: start;
+    background: transparent;
 }
 
 /* Independent vertical scrolling inside each page */
